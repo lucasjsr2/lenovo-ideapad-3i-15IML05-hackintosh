@@ -1,4 +1,4 @@
-# Notebook Dell Inspiron 5490 - i7 10510U + iGPU
+# Lenovo Ideapad 3i-15IML05
 ![About This Mac - Overview](.images/about-this-mac.png)
 # EFI Details
 **Latest working macOS**: 13.2.1
