@@ -3,7 +3,7 @@
 # EFI Details
 **Latest working macOS**: 13.2.1
 <br>
-**Current OpenCore**: 0.8.8
+**Current OpenCore**: 0.9.2
 <br>
 <br>
 
