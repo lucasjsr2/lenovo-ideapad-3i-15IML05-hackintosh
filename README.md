@@ -1,7 +1,7 @@
 # Lenovo Ideapad 3i-15IML05
 ![About This Mac - Overview](.images/about-this-mac.png)
 # EFI Details
-**Latest working macOS**: 13.2.1
+**Latest working macOS**: 13.4
 <br>
 **Current OpenCore**: 0.9.2
 <br>
