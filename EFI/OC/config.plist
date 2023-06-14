@@ -1349,6 +1349,8 @@
 		<dict>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
+			<key>ConsoleFont</key>
+			<string></string>
 			<key>ConsoleMode</key>
 			<string></string>
 			<key>DirectGopRendering</key>
@@ -1415,6 +1417,8 @@
 			<key>FirmwareVolume</key>
 			<true/>
 			<key>HashServices</key>
+			<false/>
+			<key>PciIo</key>
 			<false/>
 			<key>OSInfo</key>
 			<false/>
